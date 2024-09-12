@@ -25,6 +25,10 @@
 <link rel="manifest" href="/docs/5.3/assets/img/favicons/manifest.json">
 <link rel="mask-icon" href="/docs/5.3/assets/img/favicons/safari-pinned-tab.svg" color="#712cf9">
 <link rel="icon" href="/docs/5.3/assets/img/favicons/favicon.ico">
+
+
+<!-- custom css  -->
+<link rel="stylesheet" href="./assets/css/login.css">
 <meta name="theme-color" content="#712cf9">
 
 
